@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Shoppers Point Claculator</string>
+    <string name="point">Point</string>
+    <string name="_0">$0</string>
+    <string name="_22_000">22,000</string>
+    <string name="_38_000">38,000</string>
+    <string name="_50_000">50,000</string>
+    <string name="_8_000">8,000</string>
+    <string name="_95_000">95,000</string>
+    <string name="input_points">Input Points :</string>
+    <string name="target_reward">Target Reward :</string>
+    <string name="the_value_of_input_points_is">The value of input points is</string>
+    <string name="calculate">calculate</string>
+</resources>
